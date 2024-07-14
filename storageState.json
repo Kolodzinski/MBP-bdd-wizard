@@ -1,0 +1,25 @@
+{
+   "cookies": [
+    {
+      "name": "sessionid",
+      "value": "5v53jnjzxnd5oxuplrqpzhd6grffq1jy",
+      "domain": "hammerhead-app-wwgsk.ondigitalocean.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://example.com",
+      "localStorage": [
+        {
+          "name": "localStorageKey",
+          "value": "localStorageValue"
+        }
+      ]
+    }
+  ]
+}
